@@ -3,19 +3,19 @@ Solving the [Mega Project List](https://github.com/karan/Projects).
 
 ## Table of Contents
 
-*Numbers
-*Classic Algorithms
-*Graph
-*Data Structures
-*Text
-*Networking
-*Classes
-*Threading
-*Web
-*Files
-*Databases
-*Graphics and Multimedia
-*Security
+* Numbers
+* Classic Algorithms
+* Graph
+* Data Structures
+* Text
+* Networking
+* Classes
+* Threading
+* Web
+* Files
+* Databases
+* Graphics and Multimedia
+* Security
 
 Numbers
 ---------
