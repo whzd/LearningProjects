@@ -3,19 +3,44 @@ Solving the [Mega Project List](https://github.com/karan/Projects).
 
 ## Table of Contents
 
-* Numbers: [Python](https://github.com/whzd/LearningProjects#numbers)
-* Classic Algorithms
-* Graph
-* Data Structures
-* Text
-* Networking
-* Classes
-* Threading
-* Web
-* Files
-* Databases
-* Graphics and Multimedia
-* Security
+* [Numbers](https://github.com/whzd/LearningProjects#numbers) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Numbers)
+
+* [Classic Algorithms](https://github.com/whzd/LearningProjects#classic-algorithms) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Classsic%20Algorithms)
+
+* [Graph](https://github.com/whzd/LearningProjects#graph) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Graph)
+
+* [Data Structures](https://github.com/whzd/LearningProjects#data-structures) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Data%20Structures)
+
+* [Text](https://github.com/whzd/LearningProjects#text) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Text)
+
+* [Networking](https://github.com/whzd/LearningProjects#networking) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Networking)
+
+* [Classes](https://github.com/whzd/LearningProjects#classes) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Classes)
+
+* [Threading](https://github.com/whzd/LearningProjects#threading) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Threading)
+
+* [Web](https://github.com/whzd/LearningProjects#web) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Web)
+
+* [Files](https://github.com/whzd/LearningProjects#files) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Files)
+
+* [Databases](https://github.com/whzd/LearningProjects#databases) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Databases)
+
+* [Graphics and Multimedia](https://github.com/whzd/LearningProjects#graphics-and-multimedia) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Graphics%20and%20Multimedia)
+
+* [Security](https://github.com/whzd/LearningProjects#security) - 
+[Python](https://github.com/whzd/LearningProjects/tree/master/Python/Security)
 
 Numbers
 ---------
