@@ -3,7 +3,7 @@ Solving the [Mega Project List](https://github.com/karan/Projects).
 
 ## Table of Contents
 
-* Numbers
+* Numbers: [Python](https://github.com/whzd/LearningProjects#numbers)
 * Classic Algorithms
 * Graph
 * Data Structures
