@@ -3,7 +3,7 @@
 Numbers:
 --------
 
-- [ ] Find PI to the Nth Digit
+- [x] Find PI to the Nth Digit
 - [ ] Find e to the Nth Digit
 - [ ] Fibonacci Sequence
 - [ ] Prime Factorization
