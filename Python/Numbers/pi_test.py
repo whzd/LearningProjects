@@ -1,7 +1,6 @@
 import unittest
 from pi import find_pi
 from math import pi
-from decimal import Decimal
 
 class TestPi(unittest.TestCase):
 
@@ -12,7 +11,7 @@ class TestPi(unittest.TestCase):
         self.assertEqual(find_pi(10), format(pi, '.10f'))
 
     def test_values(self):
-         # Test if value error is raised to n values of the limits
+         # Test if value error is raised to n values off the limits
         self.assertRaises(ValueError, find_pi, 0)
         self.assertRaises(ValueError, find_pi, 12)
     
