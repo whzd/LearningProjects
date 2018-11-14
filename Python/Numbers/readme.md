@@ -4,8 +4,8 @@ Numbers:
 --------
 
 - [x] Find PI to the Nth Digit
-- [ ] Find e to the Nth Digit
-- [ ] Fibonacci Sequence
+- [x] Find e to the Nth Digit
+- [x] Fibonacci Sequence
 - [ ] Prime Factorization
 - [ ] Next Prime Number
 - [ ] Find Cost of Tile to Cover W x H Floor
