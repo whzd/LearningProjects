@@ -7,7 +7,7 @@ Numbers:
 - [x] Find e to the Nth Digit
 - [x] Fibonacci Sequence
 - [x] Prime Factorization
-- [ ] Next Prime Number
+- [x] Next Prime Number
 - [ ] Find Cost of Tile to Cover W x H Floor
 - [ ] Mortgage Calculator
 - [ ] Change Return Program
