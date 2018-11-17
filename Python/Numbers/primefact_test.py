@@ -7,18 +7,21 @@ class TestPrimeFactores(unittest.TestCase):
         # Test prime value verification for number 2
         self.assertEqual(is_prime(2), True)
         # Test prime value verification for number 4
-        self.assertEqual(is_prime(4), True)
+        self.assertEqual(is_prime(4), False)
         # Test prime value verification for number 13
         self.assertEqual(is_prime(13), True)
         # Test prime value verification for number 28
-        self.assertEqual(is_prime(28), True)
+        self.assertEqual(is_prime(28), False)
         # Test prime value verification for number 43
         self.assertEqual(is_prime(43), True)
         # Test prime value verification for number 49
-        self.assertEqual(is_prime(49), True)
+        self.assertEqual(is_prime(49), False)
     
     def test_prime_factores(self):
-        self.assertEqual(True, True)
+        # Test prime factorization for number 3
+        self.assertEqual(prime_factors(3), [3])
+        # Test prime factorization for number 28
+        self.assertEqual(prime_factors(28), [2, 2, 7])
 
     def test_values(self):
          # Test if value error is raised to n values off the limits
