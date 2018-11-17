@@ -1,5 +1,3 @@
-import math
-
 def is_prime(n):
      if n <= 1:
         return False
@@ -14,18 +12,37 @@ def is_prime(n):
         i = i + 6
      return True
 
-def prime_factors(n):
 
- if(is_prime(n)):
-    print(n),
- else:
-    for i in range(2, int(math.sqrt(n))):
-        if(n%i == 0):
-              prime_factors(i)
-              prime_factors(n//i)
+def prime_factors(n):
+   if type(n) != int:
+      raise TypeError("The sequence term needs to be a non-negative integer number.")
+   if n <= 0:
+      raise ValueError("The sequence term needs to be non-negative.")
+   p = 2
+   vec = []
+   while n >= p*p:
+      if n % p == 0:
+         vec.append(p)
+         n = n / p
+      else:
+         p = p + 1
+   vec.append(int(n))
+   return vec
+  
 
 def main():
-    prime_factors(28)
+   while True:
+      try:
+         n = int(input("Insert the number: "))
+      except ValueError:
+         print("ERROR: The sequence term needs to be a non-negative integer number.")
+      else:
+         if n > 0 :
+            vec = prime_factors(n)
+            print("The Prime Factors of the number {n} are: {fact}".format(n=n, fact=' * '.join(map(str,vec)), end=''))
+            break
+         else:
+            print("ERROR: The sequence term needs to be a non-negative integer number.")
 
 if __name__ == '__main__':
     main()
