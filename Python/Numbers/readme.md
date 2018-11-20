@@ -8,7 +8,7 @@ Numbers:
 - [x] Fibonacci Sequence
 - [x] Prime Factorization
 - [x] Next Prime Number
-- [ ] Find Cost of Tile to Cover W x H Floor
+- [x] Find Cost of Tile to Cover W x H Floor
 - [ ] Mortgage Calculator
 - [ ] Change Return Program
 - [ ] Binary to Decimal and Back Converter
